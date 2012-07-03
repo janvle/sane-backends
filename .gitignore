@@ -6,8 +6,11 @@
 *~
 autom4te.cache/
 Makefile
+Makefile.in
+*/Makefile.in
+configure
 config.log
 config.status
 config.cache
 libtool
-
+aclocal.m4
