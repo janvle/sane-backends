@@ -17,3 +17,14 @@ aclocal.m4
 frontend/powerslide.conf
 frontend/test
 frontend/tstbackend
+INSTALL
+compile
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+m4/libtool.m4
+m4/ltoptions.m4
+m4/ltversion.m4
+missing

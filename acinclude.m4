@@ -759,6 +759,5 @@ void vsyslog(int priority, const char *format, va_list args);
 ])
 ])
 
-m4_include([m4/libtool.m4])
 m4_include([m4/byteorder.m4])
 m4_include([m4/stdint.m4])
