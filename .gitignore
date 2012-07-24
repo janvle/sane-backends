@@ -10,4 +10,7 @@ config.log
 config.status
 config.cache
 libtool
-
+aclocal.m4
+configure
+frontend/tstbackend
+frontend/test
