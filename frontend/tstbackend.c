@@ -1731,6 +1731,7 @@ main (int argc, char **argv)
 					(strcmp(dev->vendor, "NEC") == 0) ||
 					(strcmp(dev->vendor, "Nikon") == 0) ||
 					(strcmp(dev->vendor, "Noname") == 0) ||
+					(strcmp(dev->vendor, "PIE") == 0) ||
 					(strcmp(dev->vendor, "Plustek") == 0) ||
 					(strcmp(dev->vendor, "Polaroid") == 0) ||
 					(strcmp(dev->vendor, "Relisys") == 0) ||
